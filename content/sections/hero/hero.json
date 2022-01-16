@@ -1,18 +1,22 @@
 {
-  "intro": "Hej",
+  "intro": "Hello!",
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "I'm Abhay Menon",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "a second year computer science student at the University of Waterloo interested in ",
+    "highlight": "Full-stack development",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": [
+      "LinkedIn",
+      "Github",
+      "Mail"
+    ],
     "showIcons": false
   }
 }

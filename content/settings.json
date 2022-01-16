@@ -17,11 +17,10 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "<AM/>" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
         { "label": "Features", "url": "/#features" },
         { "label": "Github", "url": "/#github" }
       ],
@@ -36,8 +35,8 @@
       ]
     },
     "featureToggles": {
-      "useDarkModeAsDefault": false,
-      "useDarkModeBasedOnUsersPreference": true,
+      "useDarkModeAsDefault": true,
+      "useDarkModeBasedOnUsersPreference": false,
       "useCookieBar": false
     }
   }
