@@ -1,14 +1,14 @@
 ---
 imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageAlt: "About Me"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+I'm a 20-year-old programmer who enjoys creating websites in my spare time.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+It had always been a dream of mine to make a game. After a month of planning and studying C# and Unity, I published my first-ever program, Pong Simulator, to SourceForge. After completing this project, I realized that a job as a software engineer was the best fit for me.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+By the time I had graduated high school, COVID had forced everyone to live their lives online. Around this time, I had engrossed myself in the realm of web development. I spent my whole summer break learning HTML, CSS, JavaScript, React, and Firebase to build a social networking app. This was when I discovered my passion for web programming.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
+Web development inspires me because it has given me complete freedom to employ my creative skills. It's like an endless canvas on which I can paint anything from Leonardo da Vinci's Mona Lisa to Jackson Pollock's Number 5. It provides you with the potential to enhance everyone's life with just a few lines on a computer, in my opinion.
 
 Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash

@@ -2,46 +2,76 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "🎨 SOCKET.IO DRAWING APPLICATION",
+      "title": "SyncSketch",
+      "description": "A web application that allows multiple users to share a whiteboard online. Used WebSocket connections to pass information about every user’s mouse positions. Currently implemented rooms and canvas saving features using MongoDB.",
+      "tags": [
+        "TypeScript",
+        "NodeJS",
+        "React",
+        "Socket.IO",
+        "Express"
+      ],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/kaleidico-26MJGnCM0Wc-unsplash.jpg",
         "alt": "Quick Setup"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://github.com/abhqy/WhiteboardApp"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "👋 FIREBASE SOCIAL MEDIA APPLICATION",
+      "title": "Heyo!",
+      "description": "A full-stack web application that allows users to post their thoughts. Used Firebase authentication for login and account registration. Stored posts and comments as JSON data in the Firebase realtime database. Enabled users to post pictures, stored as Blobs in Cloud Firestore. Built front-end using Material UI.",
+      "tags": [
+        "JavaScript",
+        "React",
+        "Firebase",
+        "Material UI"
+      ],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "src": "../../images/brooke-cagle-g1Kr4Ozfoac-unsplash.jpg",
         "alt": "Extendable Layout"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/abhqy/twitter-clone"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🎓 FIREBASE COURSE SELECTION APPLICATION",
+      "title": "Course Buddy",
+      "description": "Developed a web application for Computer Science Students in the University of Waterloo to help with course selection. Included a drag-and-drop API to allow students to drag courses into their schedule and to enhance the aesthetics of the web page. Stored user authentication information and course selections in Firebase realtime database. Built front-end using Material UI",
+      "tags": [
+        "JavaScript",
+        "React",
+        "Firebase",
+        "Material UI",
+        "Styled Components"
+      ],
+      "image": {
+        "src": "../../images/soundtrap-ddwbTn5HDdQ-unsplash.jpg",
+        "alt": "Quick Setup"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/brandngo/course-buddy"
         }
       ]
     }
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "url": "https://github.com/abhqy/"
   }
 }
