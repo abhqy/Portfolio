@@ -2,18 +2,16 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
+    "title": "Portfolio · Abhay Menon",
+    "titleTemplate": "%s · Abhay Menon",
+    "description": "Abhay Menon's portfolio website made using Gatsby.",
+    "author": "Abhay Menon",
     "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "A 20-year-old programmer from the University of Waterloo who enjoys web development",
     "social": {
-      "behance": "https://behance.com",
       "github": "https://github.com/abhqy",
-      "medium": "https://konstantinmuenster.medium.com",
       "linkedin": "https://www.linkedin.com/in/abhqy/",
-      "mail": "mailto:a32menon@gmail.com"
+      "mail": "mailto:a32menon@uwaterloo.ca"
     }
   },
   "siteConfiguration": {
@@ -30,7 +28,8 @@
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "label": "Imprint", "url": "/imprint" },
+        { "label": "Credits", "url": "/credits"}
       ]
     },
     "featureToggles": {

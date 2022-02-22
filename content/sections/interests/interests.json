@@ -1,58 +1,86 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "Full-stack development",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/full-stack.png",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "Problem Solving",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/puzzle.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Database Management",
+      "image": {
+        "src": "../../images/database.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Scrum Methodology",
+      "image": {
+        "src": "../../images/scrum.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "REST",
+      "image": {
+        "src": "../../images/rest.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Version Control",
+      "image": {
+        "src": "../../images/github.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Office 365",
+      "image": {
+        "src": "../../images/office.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Linux",
+      "image": {
+        "src": "../../images/linux.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "OOP",
+      "image": {
+        "src": "../../images/oop.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Functional Programming",
+      "image": {
+        "src": "../../images/fp.png",
         "alt": ""
       }
     },
     {
       "label": "Responsive Design",
       "image": {
-        "src": "../../images/nail-polish.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Medium Integration",
-      "image": {
-        "src": "../../images/medium.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Animations",
-      "image": {
-        "src": "../../images/gem-stone.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "PWA (Offline Support)",
-      "image": {
         "src": "../../images/mobile-phone.png",
         "alt": ""
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "Game Development",
       "image": {
-        "src": "../../images/gatsby.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Blazing Fast",
-      "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/joystick.png",
         "alt": ""
       }
     }
@@ -60,6 +88,6 @@
   "button": {
     "visible": true,
     "label": "+ Load More",
-    "initiallyShownInterests": 5
+    "initiallyShownInterests": 100
   }
 }
