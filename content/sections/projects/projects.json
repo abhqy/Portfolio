@@ -80,7 +80,7 @@
       "visible": true,
       "category": "🎮 UNITY3D GAME",
       "title": "Pong Simulator",
-      "description": "Created a singleplayer 3D table tennis game with the Unity3D game engine. Implemented a points system, ball respawning mechanism, pause-and-play system, and an introduction screen using C#.",
+      "description": "Created a singleplayer 3D table tennis game with the Unity3D game engine. Implemented a points system, ball respawning mechanism, pause-and-play system, and introduction screen using C#.",
       "tags": [
         "C#",
         "Unity3D"
