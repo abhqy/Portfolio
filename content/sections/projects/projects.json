@@ -42,6 +42,10 @@
         {
           "type": "github",
           "url": "https://github.com/abhqy/twitter-clone"
+        },
+        {
+          "type": "external",
+          "url": "https://xp-lab.web.app"
         }
       ]
     },
@@ -49,7 +53,7 @@
       "visible": true,
       "category": "🎓 FIREBASE COURSE SELECTION APPLICATION",
       "title": "Course Buddy",
-      "description": "Developed a web application for Computer Science Students in the University of Waterloo to help with course selection. Included a drag-and-drop API to allow students to drag courses into their schedule and to enhance the aesthetics of the web page. Stored user authentication information and course selections in Firebase realtime database. Built front-end using Material UI",
+      "description": "Developed a web application for Computer Science Students in the University of Waterloo to help with course selection. Included a drag-and-drop API to allow students to drag courses into their schedule and to enhance the aesthetics of the web page. Stored user authentication information and course selections in Firebase realtime database. Built front-end using Material UI.",
       "tags": [
         "JavaScript",
         "React",
@@ -65,6 +69,30 @@
         {
           "type": "github",
           "url": "https://github.com/brandngo/course-buddy"
+        },
+        {
+          "type": "external",
+          "url": "https://project-ru-ced9e.web.app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🎮 UNITY3D GAME",
+      "title": "Pong Simulator",
+      "description": "Created a singleplayer 3D table tennis game with the Unity3D game engine. Implemented a points system, ball respawning mechanism, pause-and-play system, and an introduction screen using C#.",
+      "tags": [
+        "C#",
+        "Unity3D"
+      ],
+      "image": {
+        "src": "../../images/lisa-keffer-i0kB5B9J8Ds-unsplash.jpg",
+        "alt": "Quick Setup"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://sourceforge.net/projects/pong-simulator/"
         }
       ]
     }
