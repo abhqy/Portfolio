@@ -4,7 +4,7 @@
       "visible": true,
       "category": "📈 ADMIN DASHBOARD NPM PACKAGE",
       "title": "Heimdall",
-      "description": "An npm package that allows users to automate admin dashboards for React applications. Created a RESTful API using Node.js and Express.js, adhering to the Model View Controller (MVC) architecture. Used MongoDB and Mongoose to implement a two-way embedding for a many-to-many data relationship between users and projects. Used gzip compression to decrease the sizes of response bodies, reducing API response time by X% . Added protection from common web vulnerabilities using Helmet.js and DDoS attacks using node-rate-limiter-flexible. Used a Google OAuth 2.0 Passport.js strategy to allow user authentication and cookie generation. Developed a dashboards info web application using TypeScript, React, AntD v4 and Recharts.",
+      "description": "An npm package that allows users to automate admin dashboards for React applications. Created a RESTful API using Node.js and Express.js, adhering to the Model View Controller (MVC) architecture. Used MongoDB and Mongoose to implement a two-way embedding for a many-to-many data relationship between users and projects. Used gzip compression to decrease the sizes of response bodies, reducing API response time by 53% . Added protection from common web vulnerabilities using Helmet.js and DDoS attacks using node-rate-limiter-flexible. Used a Google OAuth 2.0 Passport.js strategy to allow user authentication and cookie generation. Developed a dashboards info web application using TypeScript, React, AntD v4 and Recharts.",
       "tags": [
         "Node",
         "Express",
