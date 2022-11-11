@@ -2,26 +2,22 @@
   "projects": [
     {
       "visible": true,
-      "category": "🎨 SOCKET.IO DRAWING APPLICATION",
-      "title": "SyncSketch",
-      "description": "A web application that allows multiple users to share a whiteboard online. Used WebSocket connections to pass information about every user’s mouse positions. Currently implemented rooms and canvas saving features using MongoDB.",
+      "category": "📈 ADMIN DASHBOARD NPM PACKAGE",
+      "title": "Heimdall",
+      "description": "An npm package that allows users to automate admin dashboards for React applications. Created a RESTful API using Node.js and Express.js, adhering to the Model View Controller (MVC) architecture. Used MongoDB and Mongoose to implement a two-way embedding for a many-to-many data relationship between users and projects. Used gzip compression to decrease the sizes of response bodies, reducing API response time by X% . Added protection from common web vulnerabilities using Helmet.js and DDoS attacks using node-rate-limiter-flexible. Used a Google OAuth 2.0 Passport.js strategy to allow user authentication and cookie generation. Developed a dashboards info web application using TypeScript, React, AntD v4 and Recharts.",
       "tags": [
-        "TypeScript",
-        "NodeJS",
+        "Node",
+        "Express",
         "React",
-        "Socket.IO",
-        "Express"
+        "MongoDB",
+        "Passport",
+        "Recharts",
+        "Ant Design"
       ],
       "image": {
-        "src": "../../images/kaleidico-26MJGnCM0Wc-unsplash.jpg",
+        "src": "../../images/campaign-creators-pypeCEaJeZY-unsplash.jpg",
         "alt": "Quick Setup"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/abhqy/WhiteboardApp"
-        }
-      ]
+      }
     },
     {
       "visible": true,
